@@ -1,5 +1,6 @@
 package com.example.russiannewsapp.retrofit
 
+import com.example.russiannewsapp.model.NewsWebsite
 import retrofit2.Call
 import retrofit2.http.GET
 
