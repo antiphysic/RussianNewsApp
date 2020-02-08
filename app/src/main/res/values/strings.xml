@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RussianNewsApp</string>
+    <string name="nameNewsCompany">Name news company</string>
+    <string name="imageNews">SourceImageNews</string>
 </resources>
